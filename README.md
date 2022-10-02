@@ -6,7 +6,7 @@
 |-- **Declarative** <br>
 |------ functional programming <br>
 |------ logic programming <br>
-|------ DB management <br>
+|------ DB queries <br>
 |------ ... <br>
 | <br>
 |-- **Imperative** <br>
