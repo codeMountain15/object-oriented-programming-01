@@ -18,7 +18,7 @@
 |------> procedural programming (e.g. [C](), Pascal, Basic, Fortran, Cobol) <br>
 |------> ... <br>
 
-... non-functinal programming languages with functional programming elements (e.g. [Python]())
+... και μη-συναρτησιακές (non-functinal) γλώσσες προγραμματισμού που εμπεριέχουν στοιχεία συναρτησιακού προγραμματισμού (π.χ. [Python]())
 
 <br>
 <br>
