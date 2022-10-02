@@ -2,9 +2,9 @@
 
 . <br>
 | <br>
-|-- Declarative Programming<br>
+|-- Declarative Programming
 * functional programming
-| <br>
+|
 |-- Imperative Programming <br>
 * procedural programming
 
