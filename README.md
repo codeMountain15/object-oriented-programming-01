@@ -2,8 +2,10 @@
 
 . <br>
 | <br>
-|-- <br>
-|-- <br>
+|-- Imperative Programming <br>
+     |-- <br>
+     |-- <br>
+|-- Declarative Programming<br>
 | <br>
 
 
