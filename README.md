@@ -1,6 +1,6 @@
 # Εισαγωγή στον Αντικειμενοστραφή Προγραμματισμό
 
-## Languages
+**Languages** <br>
 . <br>
 | <br>
 |-- **Declarative** <br>
@@ -10,7 +10,8 @@
 |------ ... <br>
 | <br>
 |-- **Imperative** <br>
-|------ procedural programming
+|------ procedural programming <br>
+|------ ... <br>
 
 
 ---
