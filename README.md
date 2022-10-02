@@ -18,7 +18,8 @@
 |------> procedural programming (e.g. [C](), Pascal, Basic, Fortran, Cobol) <br>
 |------> ... <br>
 
-...non-functinal programming languages with functional programming elements (e.g. [Python]())
+... non-functinal programming languages with functional programming elements (e.g. [Python]())
+
 ---
 
 Ιδιαίτερες ευχαριστίες στην κ. [Ιζαμπώ Καράλη](https://cgi.di.uoa.gr/~izambo/GR.html) και την εκπαιδευτική ομάδα της για το πολύτιμο υλικό που μας παρείχαν.
