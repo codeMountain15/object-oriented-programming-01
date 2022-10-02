@@ -2,11 +2,11 @@
 
 . <br>
 | <br>
-|-- Imperative Programming <br>
-     |-- <br>
-     |-- <br>
 |-- Declarative Programming<br>
+* functional programming
 | <br>
+|-- Imperative Programming <br>
+* procedural programming
 
 
 ---
