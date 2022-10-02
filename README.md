@@ -3,6 +3,11 @@
 **Languages** <br>
 . <br>
 | <br>
+| Machine code<br>
+| <br>
+|-- ... <br>
+| <br>
+| <br>
 |-- **Declarative** <br>
 |------ functional programming <br>
 |------ logic programming <br>
