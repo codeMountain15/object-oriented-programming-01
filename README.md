@@ -20,6 +20,8 @@
 
 ... non-functinal programming languages with functional programming elements (e.g. [Python]())
 
+<br>
+<br>
 
 ## Πηγές
 * [cgi.di.uoa.gr/~izambo/oop.html](https://cgi.di.uoa.gr/~izambo/oop.html)
