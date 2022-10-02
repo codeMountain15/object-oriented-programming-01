@@ -3,8 +3,8 @@
 . <br>
 | <br>
 |-- Declarative Programming
-* functional programming
-|
+* functional programming <br>
+| <br>
 |-- Imperative Programming <br>
 * procedural programming
 
