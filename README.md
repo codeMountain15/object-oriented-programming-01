@@ -9,14 +9,14 @@
 | <br>
 | <br>
 |-- **Declarative** <br>
-|------ functional programming <br>
-|------ logic programming <br>
-|------ DB queries <br>
-|------ ... <br>
+|------> functional programming <br>
+|------> logic programming <br>
+|------> DB queries <br>
+|------> ... <br>
 | <br>
 |-- **Imperative** <br>
-|------ procedural programming <br>
-|------ ... <br>
+|------> procedural programming <br>
+|------> ... <br>
 
 
 ---
