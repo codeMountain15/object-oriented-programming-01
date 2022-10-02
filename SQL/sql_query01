@@ -1,0 +1,2 @@
+SELECT * FROM Customers
+WHERE City = 'Αθήνα' OR City = 'Κορωπί';
