@@ -2,10 +2,13 @@
 
 . <br>
 | <br>
-|-- Declarative Programming <br>
+|-- **Declarative** <br>
 |------ functional programming <br>
+|------ logic programming <br>
+|------ DB management <br>
+|------ ... <br>
 | <br>
-|-- Imperative Programming <br>
+|-- **Imperative** <br>
 |------ procedural programming
 
 
