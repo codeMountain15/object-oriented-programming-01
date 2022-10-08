@@ -5,7 +5,7 @@
 | <br>
  **Machine code**<br>
 | <br>
-|-- ... <br>
+... <br>
 | <br>
 | <br>
 |-- **Declarative** <br>
