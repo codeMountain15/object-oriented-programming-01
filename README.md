@@ -3,7 +3,7 @@
 **Languages** <br>
 . <br>
 | <br>
-| **Machine code**<br>
+ **Machine code**<br>
 | <br>
 |-- ... <br>
 | <br>
