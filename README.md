@@ -8,15 +8,15 @@
 ... <br>
 | <br>
 | <br>
-|-- **Declarative** <br>
-|------> functional programming (e.g. Scheme, [Lisp](), Miranda, Standard ML) <br>
-|------> logic programming (e.g. Prolog) <br>
-|------> DB queries (e.g. [SQL]()) <br>
-|------> ... <br>
-| <br>
-|-- **Imperative** <br>
-|------> procedural programming (e.g. [C](), Pascal, Basic, Fortran, Cobol) <br>
-|------> ... <br>
+||-- **Declarative** <br>
+||------> functional programming (e.g. Scheme, [Lisp](), Miranda, Standard ML) <br>
+||------> logic programming (e.g. Prolog) <br>
+||------> DB queries (e.g. [SQL]()) <br>
+||------> ... <br>
+|| <br>
+||-- **Imperative** <br>
+||------> procedural programming (e.g. [C](), Pascal, Basic, Fortran, Cobol) <br>
+||------> ... <br>
 
 ... και πολλοί ακόμα συνδυασμοί, όπως μη-συναρτησιακές (non-functinal) γλώσσες προγραμματισμού που εμπεριέχουν στοιχεία συναρτησιακού προγραμματισμού (π.χ. [Python]())
 
