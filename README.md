@@ -6,7 +6,7 @@
  **Machine code**<br>
 | <br>
 ... <br>
-| <br>
+
 
 ||-- **Declarative** <br>
 ||------> functional programming (e.g. Scheme, [Lisp](), Miranda, Standard ML) <br>
