@@ -8,13 +8,13 @@
 ... <br><br><br>
 
 
-||-- **Declarative** <br>
+**Declarative** <br>
 ||------> functional programming (e.g. Scheme, [Lisp](), Miranda, Standard ML) <br>
 ||------> logic programming (e.g. Prolog) <br>
 ||------> DB queries (e.g. [SQL]()) <br>
 ||------> ... <br>
 <br>
-||-- **Imperative** <br>
+**Imperative** <br>
 ||------> procedural programming (e.g. [C](), Pascal, Basic, Fortran, Cobol) <br>
 ||------> ... <br>
 
