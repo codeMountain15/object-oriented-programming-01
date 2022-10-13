@@ -1,6 +1,6 @@
 TITLE plus and minus (assemblyPM.asm)
 
-; This program in assembly adds and subtracts some 32-bit integers.
+; addition and subtraction of some integers in assembly
 
 INCLUDE Irvine32.inc
 
