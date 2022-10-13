@@ -4,9 +4,9 @@ TITLE plus and minus (assemblyPM.asm)
 
 INCLUDE Irvine32.inc
 
-.code
+.code       ; the code starts from here
 
-main PROC
+main PROC             ; starts the procedure
   mov eax,30000h      ; EAX == 30000h
   add eax,10000h      ; EAX == 40000h
   sub eax,20000h      ; EAX == 20000h
