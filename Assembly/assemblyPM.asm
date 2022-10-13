@@ -13,5 +13,5 @@ main PROC
   call DumpRegs
   exit
 
-main ENDP
-END main
+main ENDP       ;end of the procedure	
+END main        ;end of the program
